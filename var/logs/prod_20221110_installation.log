@@ -1,0 +1,10 @@
+*ERROR* 	v1.7.8.7	2022/11/10 - 16:56:12: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.7	2022/11/10 - 16:59:18: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.7	2022/11/10 - 17:00:08: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.7	2022/11/10 - 17:01:44: Erreur SQL sur la requête <i>Index column size too large. The maximum column size is 767 bytes.</i>
+*ERROR* 	v1.7.8.7	2022/11/10 - 17:04:15: Erreur SQL sur la requête <i>Erreur de syntaxe près de 'CREATE TABLE `ps_address` (
+  `id_address` int(10) unsigned NOT NULL auto_increm' à la ligne 8</i>
+*ERROR* 	v1.7.8.7	2022/11/10 - 17:05:54: Erreur SQL sur la requête <i>Erreur de syntaxe près de 'CREATE TABLE `ps_address` (
+  `id_address` int(10) unsigned NOT NULL auto_increm' à la ligne 8</i>
+*ERROR* 	v1.7.8.7	2022/11/10 - 17:09:59: Erreur SQL sur la requête <i>Erreur de syntaxe près de 'CREATE TABLE `ps_address` (
+  `id_address` int(10) unsigned NOT NULL auto_increm' à la ligne 8</i>
