@@ -4139,6 +4139,18 @@
     'type' => 'class',
     'override' => false,
   ),
+  'UploadController' => 
+  array (
+    'path' => '',
+    'type' => 'class',
+    'override' => false,
+  ),
+  'UploadControllerCore' => 
+  array (
+    'path' => 'controllers/front/UploadController.php',
+    'type' => 'class',
+    'override' => false,
+  ),
   'Uploader' => 
   array (
     'path' => '',
