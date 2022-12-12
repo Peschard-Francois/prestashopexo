@@ -69,7 +69,7 @@ class CheckoutPaymentStepCore extends AbstractCheckoutStep
 
         $this->setTitle(
             $this->getTranslator()->trans(
-                'Payment',
+                'Vos informations  de paiements',
                 [],
                 'Shop.Theme.Checkout'
             )
