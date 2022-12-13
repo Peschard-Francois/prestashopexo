@@ -221,7 +221,7 @@ class CheckoutAddressesStepCore extends AbstractCheckoutStep
             }
         }
 
-        $this->setTitle($this->getTranslator()->trans('Addresses', [], 'Shop.Theme.Checkout'));
+        $this->setTitle($this->getTranslator()->trans('Vos informations de livraison', [], 'Shop.Theme.Checkout'));
 
         return $this;
     }

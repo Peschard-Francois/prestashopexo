@@ -34,8 +34,7 @@
 </div>
 
 <div class="text-sm-center">
-  {if $tos_cms != false}
-    <span class="d-block js-terms">{$tos_cms nofilter}</span>
-  {/if}
-  {l s='%copyright% %year% - Ecommerce software by %prestashop%' sprintf=['%prestashop%' => 'PrestaShop™', '%year%' => 'Y'|date, '%copyright%' => '©'] d='Shop.Theme.Global'}
+ <img class="logo"
+     src="https://assets-global.website-files.com/5f32830ea1e9a11031e6c9c8/5f3bdf4b361942086f272ef8_lifeaz.svg"
+     alt="Grapefruit slice atop a pile of other slices">
 </div>

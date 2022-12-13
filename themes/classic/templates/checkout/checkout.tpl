@@ -31,6 +31,10 @@
 {block name='content'}
   <section id="content">
     <div class="row">
+      <div id="titre">
+        <h2 id="titre1">DERNIERE ETAPE</h2>
+        <h2 id="titre2">POUR FINALISER VOTRE COMMANDE</h2>
+      </div>
       <div class="cart-grid-body col-xs-12 col-lg-8">
         {block name='checkout_process'}
           {render file='checkout/checkout-process.tpl' ui=$checkout_process}

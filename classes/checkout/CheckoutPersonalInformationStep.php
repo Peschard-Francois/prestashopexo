@@ -92,7 +92,7 @@ class CheckoutPersonalInformationStepCore extends AbstractCheckoutStep
 
         $this->setTitle(
             $this->getTranslator()->trans(
-                'Personal Information',
+                'Vos informations personnelles',
                 [],
                 'Shop.Theme.Checkout'
             )
