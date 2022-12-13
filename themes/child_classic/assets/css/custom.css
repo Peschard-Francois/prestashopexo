@@ -53,6 +53,18 @@
     height: 129px;
  }
 
+ #delivery-address > div > footer > button {
+   background-color: #FF5C53 !important;
+   color: #ffffff;
+   border-radius: 10px;
+ }
+
+ #main > div > div.cart-grid-right.col-xs-12.col-lg-4 > div.card.cart-summary > div.checkout.cart-detailed-actions.js-cart-detailed-actions.card-block > div > a{
+   background-color: #FF5C53 !important;
+   color: #ffffff;
+   border-radius: 10px;
+ }
+
  #footer > div.text-sm-center {
 
     margin-left: 30px;
